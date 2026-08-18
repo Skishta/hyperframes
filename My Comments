@@ -1,0 +1,1 @@
+Hyperframes: A deterministic video rendering framework that allows AI agents to write plain HTML and render it directly to MP4. It eliminates the need to code videos in React or JSX (as required by tools like Remotion) and supports GSAP, Lottie, and Three.js, making it highly effective for scheduling automated, agent-generated videos
